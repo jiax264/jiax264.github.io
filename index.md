@@ -8,7 +8,7 @@ title: Summer 2021 DREU Project Site
 
 ## About Me
 
-Hello! I am Rio, a rising undergraduate senior who’s excited to be a part of Gallaudet’s REU AICT 10-week summer research program in accessible computing! Outside of research this summer, I deliver pizza for Domino’s and play in an ultimate frisbee league. I have two rabbits at home in Acton, MA and where I currently reside; one of them pictured above. 
+Hello! I am Rio, a rising undergraduate senior who’s excited to be a part of Gallaudet’s REU AICT 10-week summer research program in accessible computing! Outside of research this summer, I deliver pizza for Domino’s and play in an ultimate frisbee league. I have two rabbits at home in Acton, MA where I currently reside; one of them pictured above. 
 
 ## About My Mentor
 
