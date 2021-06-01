@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Summer 2021 DREU Project
+title: Summer 2021 REU Project
 ---
 
 * TOC
@@ -16,7 +16,7 @@ Linda Kozma-Spytek is Senior Research Audiologist in the Technology Access Progr
 
 ## About My Project
 
-Project description goes here.
+Coming soon!
 
 [My Final Report](files/finalreport.pdf)
 
