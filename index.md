@@ -21,5 +21,5 @@ Internet Protocol Captioned Telephone Service (IP CTS) is a federally funded tel
 [My Final Report](files/finalreport.pdf)
 
 ## My Blog
-
-[My Blog](blog.html)
+Check out my blog here! --> [My Blog](blog.html)
+~Updated weekly~
